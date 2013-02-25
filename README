@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Probotics Competition 2013
 Eric Principato
 Kiran Vodrahalli
@@ -7,3 +8,9 @@ Ilya Krasonvsky
 Danny Zirkel 
 Nicholas Masselli 
 
+=======
+#Probotics 2013
+# <list of names>
+
+Building a robot car to navigate and solve a maze as fast as possible.
+>>>>>>> 961a400da2d4a6174b4531f539f9c075f950b9a8
